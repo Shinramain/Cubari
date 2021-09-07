@@ -5,21 +5,14 @@
    "author":"Nakamaru Yosuke",
    "cover":"https://r.r10s.jp/ran/img/2001/0009/784/065/230/305/20010009784065230305_1.jpg",
    "chapters":{
-   "1":{
+      "1":{
          "title":"The Demon King's Game",
          "volume":"1",
          "groups":{
             "Tenkaichi Translation Project":"/proxy/api/imgur/chapter/4vRvx0h/"
          },
          "last_updated":"1630126261"
-       },
-   "2":{
-         "title":"Clash of The Strong",
-         "volume":"1",
-         "groups":{
-            "Tenkaichi Translation Project":"/proxy/api/imgur/chapter/LjdzHkM/"
-         },
-         "last_updated":"1631056687"
       }
    }
 }
+
