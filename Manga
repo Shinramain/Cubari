@@ -9,7 +9,7 @@
          "title":"The Demon King's Game",
          "volume":"1",
          "groups":{
-            "Tenkaichi Translation Project":"/proxy/api/imgur/chapter/4vRvx0h/"
+            "Problematic Scans":"/proxy/api/imgur/chapter/4vRvx0h/"
          },
          "last_updated":"1630126261"
       },
@@ -17,7 +17,7 @@
          "title":"Clash of the Strong",
          "volume":"1",
          "groups":{
-            "Tenkaichi Translation Project":"/proxy/api/imgur/chapter/LjdzHkM/"
+            "Problematic Scans":"/proxy/api/imgur/chapter/LjdzHkM/"
          },
          "last_updated":"1631058969"
       },
@@ -25,7 +25,7 @@
          "title":"Sleeping Sword Talent",
          "volume":"1",
          "groups":{
-            "Tenkaichi Translation Project":"/proxy/api/imgur/chapter/gDMZZCY/"
+            "Problematic Scans":"/proxy/api/imgur/chapter/gDMZZCY/"
          },
          "last_updated":"1632289945"
       },
@@ -33,7 +33,7 @@
          "title":"The Nio will be Dyed in Glory",
          "volume":"2",
          "groups":{
-            "Tenkaichi Translation Project":"/proxy/api/imgur/chapter/wgfGAHS/"
+            "Problematic Scans":"/proxy/api/imgur/chapter/wgfGAHS/"
          },
          "last_updated":"1633028020"
       },
@@ -41,9 +41,17 @@
          "title":"The Final Blow",
          "volume":"2",
          "groups":{
-            "Tenkaichi Translation Project":"/proxy/api/imgur/chapter/ux1YKcM/"
+            "Problematic Scans":"/proxy/api/imgur/chapter/ux1YKcM/"
          },
          "last_updated":"1634141944"
+      },
+         "6":{
+         "title":"The End of The First Match",
+         "volume":"2",
+         "groups":{
+            "Problematic Scans":"/proxy/api/imgur/chapter/JFwVqlK/"
+         },
+         "last_updated":"1635310761"
       }
    }
 }
