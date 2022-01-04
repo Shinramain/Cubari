@@ -76,6 +76,14 @@
             "Problematic Scans":"/proxy/api/imgur/chapter/AVgUXd2/"
          },
          "last_updated":"1640246763"
+      },
+       "10":{
+         "title":"Forbidden Art",
+         "volume":"3",
+         "groups":{
+            "Problematic Scans":"/proxy/api/imgur/chapter/apZb8bC/"
+         },
+         "last_updated":"1641265241"
       }
    }
 }
